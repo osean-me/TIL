@@ -1,4 +1,4 @@
-# Primitive Type
+# Primitive Values
 
 <aside>
 💡 자바스크립트의 원시 타입 데이터는 직접적으로 표현되는 불변의 데이터이다.
