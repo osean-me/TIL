@@ -1,4 +1,4 @@
-# Primitive Values
+# Primitive Type
 
 <aside>
 💡 자바스크립트의 원시 타입 데이터는 직접적으로 표현되는 불변의 데이터이다.
@@ -96,5 +96,8 @@
     console.log(symbol_1 === symbol_2); // false
     ```
     
+
+---
+
 - **참고**
     - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#boolean_type)
