@@ -1,8 +1,4 @@
-# Data Type
-
-- 자바스크립트의 데이터 타입에는  Primitive Values 와 Objects 가 존재한다.
-
-### Primitive Values
+# Primitive Values
 
 <aside>
 💡 자바스크립트의 원시 타입 데이터는 직접적으로 표현되는 불변의 데이터이다.
